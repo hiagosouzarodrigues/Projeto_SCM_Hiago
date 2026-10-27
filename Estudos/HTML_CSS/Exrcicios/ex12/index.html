@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vídeos com HTML</title>
+</head>
+<body>
+   <h1>Inserindo vidios hospedados localmente</h1>
+   <p>Este vídeo está hospedado no meu próprio servidor</p>
+    <video width="560" poster="imagens/minha-imagem.png" controls autoplay loop>
+        <source src="midia/meu-vidio.ogv" type="video/ogg">
+        <source src="midia/meu-vidio.m4v" type="video/m4v">
+        <source src="midia/meu-vidio.mp4" type="video/mp4">
+        <source src="midia/meu-vidio.webm" type="video/webm">
+        <p>Seu navegador não suporta o elemento de vídeo.</p>
+    </video>
+
+    <h1>inserindos vidios do youtube</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/OzUnqQk4eOg?si=0gC369FBa7X6gTgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <h1>insrindo vidos do vimeo</h1>
+    <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/78683514?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Reed Arneson - 2013 Animation Reel"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+</html>

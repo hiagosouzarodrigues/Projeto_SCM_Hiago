@@ -1,0 +1,48 @@
+UTF8?
+
+
+ARMAZENATEMTO           TRASMIÇÃO
+MB                      Mb
+
+HTML FOCO EM CONTEUDO [SIGNIFICADO SEMANTICA]        
+
+fazer cabeçario--> !
+
+o que é hospedagem significa armazenar os arquivos do seu projeto (códigos, imagens e estilos) em um servidor conectado à internet.
+
+domínio refere-se ao endereço exclusivo do seu site na internet (ex: seusite.com.br).
+
+segurar alt para colocar vários cursores
+
+achar img ctrl+espaço
+
+COLOCAR URL para imgs externas
+
+link favecon para colocar o meu ícone favorito]
+
+SEMPRE ESTUDE AS TAGS E CUIDADO COM O USO DE TAGS ABSOLETAS
+
+atalho velos para selecionar as coisas e dar ordem CTRL+SHIFT+P
+
+texto imagem vidio tabela 
+
+target="_blank" rel="external" parâmetro para que seu site n suma ao abrir um link
+
+CSS FOCO EM IMAGENS [ESTILO FORMAS]
+
+evitar estilo inline
+
+utilizar mais dee um link
+
+desing sombra tamanhos posicionamento
+
+JS
+
+interação
+menus animação popups
+
+
+
+FRONT-END                BACK-END
+LADO DO CLINENT          LADO DO SERVIDOR
+html js css              php js c# piton rubi java
